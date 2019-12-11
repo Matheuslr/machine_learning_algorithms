@@ -5,12 +5,14 @@
 Repository : [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 
 ## Used algorithms :
-- Naive Bayes
-- KNN
-- SGD
+- K-Nearest Neighbor(KNN)
+- Naive Bayes(NB)
+- Stochastic Gradient Descent(SGD)
+- Perceptron
 
-## To install all requirements run this commands: 
+## To install all requirements and start Jupyter Notebook run this commands: 
 - virtualenv -p python3 env
 - source env/bin/activate
 - pip install requirements.txt
+- cd notebooks
 - jupyter notebook
