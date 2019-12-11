@@ -1,4 +1,4 @@
-# machine_learning_algorithms
+## Machine Learning Algorithms
 
 ### A study about machine learning algorithms using an UCI Machine Learning Repository 
 
